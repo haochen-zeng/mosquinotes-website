@@ -1,0 +1,9 @@
+# Obsidian workspace settings (including plugin and hotkey configurations)
+.obsidian/*
+
+# Files like homework
+Files/
+
+# OS settings and caches
+.trash/
+.DS_Store
