@@ -11,7 +11,7 @@ To clone or download the repository and add it as a vault in Obsidian, follow th
 3. Open Obsidian on your computer.
 4. Click on "Open folder as vault" in the Obsidian startup screen.
 5. Browse and select the folder where you extracted the repository files.
-6. Obsidian will now import the folder and display it as a vault in the left sidebar.
+6. Obsidian will now display it as a vault.
 ## Contributing
 
 Contributions are always welcome!
