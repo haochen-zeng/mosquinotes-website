@@ -2,10 +2,9 @@
 
 # Definition
 
-A definition with reference to at least one other type.
+A [[Data type]] that has a definition with reference to at least one other [[data type]].
 
-# Note
+# Notes
 
-A definition with reference to at least one other type.
 For example:
-Record
+The record data type.

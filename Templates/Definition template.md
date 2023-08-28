@@ -2,6 +2,6 @@ Type Course
 
 # Definition
 
-# Note
+# Notes
 
 # Related links

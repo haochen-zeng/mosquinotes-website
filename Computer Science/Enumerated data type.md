@@ -2,9 +2,9 @@
 
 # Definition
 
-Data types that 
+A non-composite [[user-defined data type]] for which the definition identifies all possible values.
 
-# Note
+# Notes
 
 The possible values are listed in the brackets.
 For example:
@@ -19,7 +19,7 @@ DECALRE Direction : TDirections
 Direction <- North
 ```
 
-The values are ordinal. It means they can be compared to each other. This is an operation.
+The values are [[ordinal]].
 For example:
 ```
 DECLARE Weekend : Boolean
@@ -27,4 +27,6 @@ DECLARE Day : TDays
 Weekend = TRUE IF Day > Friday
 ```
 
-The enumerated data types is one reason why user-defined data types are sometimes needed. There could not be a built-in generic definition of an enumerated data type because the possible values would not be known. The values can only be known when the programmer has identifies them in the type definition.
+One example of [[user-defined data type]]. 
+There could not be a built-in generic definition because the possible values would not be known.
+The values can only be known when the programmer has identified them in the type definition.

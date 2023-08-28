@@ -2,4 +2,4 @@
 
 # Definition
 
-Data types build from other data types.
+A [[data type]] defined without reference to another [[data type]].

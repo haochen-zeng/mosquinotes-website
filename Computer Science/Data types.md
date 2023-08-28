@@ -1,6 +1,6 @@
 #Note #ComputerScience #DataRepresentation 
 
-# Note
+# Notes
 
 ## [[Data type]]
 ## [[Primitive data type]]

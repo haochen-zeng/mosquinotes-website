@@ -2,4 +2,4 @@
 
 # Definition
 
-Data types that is defined without other data types.
+A [[data type]] that is defined without other [[data type]].

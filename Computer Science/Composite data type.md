@@ -2,4 +2,4 @@
 
 # Definition
 
-Data types that is constructed using primitive data types and other composite types.
+A [[data type]] that is constructed using [[primitive data type]] and other composite data type.

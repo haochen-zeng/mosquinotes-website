@@ -1,5 +1,5 @@
 Type Course Chapter
 
-# Note
+# Notes
 
 # Relevant links

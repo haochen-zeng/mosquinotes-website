@@ -3,6 +3,7 @@
 
 # Files like homework
 Files/
+Homework*
 
 # OS settings and caches
 .trash/

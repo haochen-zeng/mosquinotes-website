@@ -2,4 +2,4 @@
 
 # Definition
 
-Data types that are supported by computer hardware.
+A [[data type]] that is supported by computer hardware.
