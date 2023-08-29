@@ -1,5 +1,5 @@
 ---
-date: <% tp.file.creation_date("YYYY-MM-DD") %>
+date: 2023-08-29
 draft: false
 tags:
   - Note

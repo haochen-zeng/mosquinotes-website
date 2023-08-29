@@ -23,7 +23,7 @@ To view the newest version of a repository, you can update your local copy by fo
 
 ## Contribute
 
-Contributions are always welcome! Please use the templates in the templates folder to create content.
+Contributions are always welcome! Please use the [template](https://github.com/EXSPIRAVIT1104OFFICIAL/Mosquinotes/tree/main/template) folder to create content in the [content](https://github.com/EXSPIRAVIT1104OFFICIAL/Mosquinotes/tree/main/content) folder.
 
 ## License
 
