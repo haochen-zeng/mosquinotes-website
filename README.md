@@ -1,6 +1,6 @@
-# Mosquinotes
+# 🦟 Mosquinotes
 
-🦟 Mosquinotes is a shared notes repository that aims to provide a collaborative platform for individuals interested in sharing and accessing study notes.
+A shared notes repository that aims to provide a collaborative platform for individuals interested in sharing and accessing study notes.
 
 ## Install
 
@@ -12,7 +12,7 @@ To clone or download the repository and add it as a vault in Obsidian, follow th
 3. Open Obsidian on your computer.
 4. Click on "Open folder as vault" in the Obsidian startup screen.
 5. Browse and select the extracted the repository folder.
-6. Obsidian will now display it as a vault. All files related to contents are stored in the "content" folder.
+6. Obsidian will now display it as a vault. The "content" folder contains all the text file contents.
 
 ## Update
 
@@ -23,7 +23,7 @@ To view the newest version of a repository, you can update your local copy by fo
 
 ## Contribute
 
-Contributions are always welcome!
+Contributions are always welcome! Please use the templates in the "Templates" folder to create content.
 
 ## License
 
