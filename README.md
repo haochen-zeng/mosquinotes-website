@@ -1,6 +1,6 @@
-# Notes from ten unfamiliar mosquitoes
+# Mosquinotes
 
-This project is a shared notes repository that aims to provide a collaborative platform for individuals interested in sharing and accessing study notes.
+Mosquinotes is a shared notes repository that aims to provide a collaborative platform for individuals interested in sharing and accessing study notes.
 
 ## Installation
 

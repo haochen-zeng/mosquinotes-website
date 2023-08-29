@@ -1,10 +1,15 @@
-# Obsidian workspace settings (including plugin and hotkey configurations)
-.obsidian/*
-
-# Files like homework
-Files/
-Homework*
-
-# OS settings and caches
-.trash/
 .DS_Store
+.trash/
+.gitignore
+node_modules
+public
+prof
+tsconfig.tsbuildinfo
+.obsidian
+.quartz-cache
+private/
+.replit
+replit.nix
+content/Files/
+Homework*
+Templates/Homework template.md
