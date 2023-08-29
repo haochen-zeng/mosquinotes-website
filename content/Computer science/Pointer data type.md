@@ -8,11 +8,11 @@ tags:
 
 # Definition
 
-A [[data type]] which the value is the address in memory of a different variable.
+A [[Data type]] which the value is the address in memory of a different variable.
 
 # Notes
 
-`^` before a [[data type]] is used for definition.
+`^` before a [[Data type]] is used for definition.
 For example:
 ```
 TYPE TIntegerPointer = ^INTEGER

@@ -8,4 +8,4 @@ tags:
 
 # Definition
 
-A [[data type]] that its range of possible values and operations are defined by the programming language.
+A [[Data type]] that its range of possible values and operations are defined by the programming language.

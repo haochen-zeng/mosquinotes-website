@@ -8,4 +8,4 @@ tags:
 
 # Definition
 
-A [[data type]] that is defined without other [[data type]].
+A [[Data type]] that is defined without other [[Data type]].

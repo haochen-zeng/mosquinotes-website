@@ -8,4 +8,4 @@ tags:
 
 # Definition
 
-A [[data type]] that is supported by computer hardware.
+A [[Data type]] that is supported by computer hardware.

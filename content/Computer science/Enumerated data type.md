@@ -8,7 +8,7 @@ tags:
 
 # Definition
 
-A non-composite [[user-defined data type]] for which the definition identifies all possible values.
+A non-composite [[User-defined data type]] for which the definition identifies all possible values.
 
 # Notes
 

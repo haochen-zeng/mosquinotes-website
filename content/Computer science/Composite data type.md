@@ -8,4 +8,4 @@ tags:
 
 # Definition
 
-A [[data type]] that is constructed using [[primitive data type]] and other composite data type.
+A [[Data type]] that is constructed using [[Primitive data type]] and other composite data type.

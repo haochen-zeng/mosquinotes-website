@@ -8,7 +8,7 @@ tags:
 
 # Definition
 
-A [[data type]] that has a definition with reference to at least one other [[data type]].
+A [[Data type]] that has a definition with reference to at least one other [[Data type]].
 
 # Notes
 
