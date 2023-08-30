@@ -5,11 +5,7 @@ node_modules
 public
 prof
 tsconfig.tsbuildinfo
-.obsidian
 .quartz-cache
 private/
 .replit
 replit.nix
-content/Files/
-Homework*
-Templates/Homework template.md
